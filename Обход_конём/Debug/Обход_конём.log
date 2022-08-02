@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Крокербот\source\repos\Vlad_AISD\Обход_конём\Source.cpp(14,1): error C2059: синтаксическая ошибка: константа
+C:\Users\Крокербот\source\repos\Vlad_AISD\Обход_конём\Source.cpp(16,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Крокербот\source\repos\Vlad_AISD\Обход_конём\Source.cpp(16,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Крокербот\source\repos\Vlad_AISD\Обход_конём\Source.cpp(81,5): error C3861: solve: идентификатор не найден
+C:\Users\Крокербот\source\repos\Vlad_AISD\Обход_конём\Source.cpp(80): fatal error C1075: "{": не найдена несоответствующая лексема

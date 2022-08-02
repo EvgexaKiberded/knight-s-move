@@ -1,0 +1,13 @@
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.exe
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.deps.json
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.runtimeconfig.json
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.runtimeconfig.dev.json
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.dll
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\bin\x86\Debug\netcoreapp3.1\Vlad_AISD.pdb
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.AssemblyInfoInputs.cache
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.AssemblyInfo.cs
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.csproj.CoreCompileInputs.cache
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.dll
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.pdb
+C:\Users\Крокербот\source\repos\Vlad_AISD\Vlad_AISD\obj\x86\Debug\netcoreapp3.1\Vlad_AISD.genruntimeconfig.cache

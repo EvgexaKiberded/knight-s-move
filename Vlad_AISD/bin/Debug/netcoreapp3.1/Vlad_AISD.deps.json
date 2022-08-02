@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Vlad_AISD/1.0.0": {
+        "runtime": {
+          "Vlad_AISD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vlad_AISD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
